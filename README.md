@@ -7,7 +7,7 @@ Project Supervisor: Samsonov Sergey
 
 Theme: Contextual bandits
 
-The implementation of recommender systems’ algorithms remains to be one of the most crucial parts for many companies. It allows them to make the user experience to be more person- alised. Finding a solution which adapts to the dynamic change in the pools of content and the scale of web services expansion is what modern developers are trying to implement. This research is aimed at the exploration and evaluation of the contextual bandit approach. It allows to reduce the computational complexity with the possibility to test the performance on the traffic recorded previously.
+The implementation of recommender systems’ algorithms remains to be one of the most crucial parts for many companies. It allows them to make the user experience to be more personalised. Finding a solution which adapts to the dynamic change in the pools of content and the scale of web services expansion is what modern developers are trying to implement. This research is aimed at the exploration and evaluation of the contextual bandit approach. It allows to reduce the computational complexity with the possibility to test the performance on the traffic recorded previously.
 
 ## Files
 
